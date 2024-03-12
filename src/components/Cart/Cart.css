@@ -1,0 +1,12 @@
+.cart-container {
+  padding: 10px;
+  margin-bottom: 50px;
+}
+
+.cart-item-container {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,22 @@
+.bottle-card {
+  background: #1d1818;
+  padding: 20px;
+  border: 2px solid white;
+  border-radius: 5px;
+}
+
+.bottle-card img {
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+}
+
+.bottle-card h3 {
+  height: 3rem;
+}
+
+.bottle-card button {
+  background: white;
+  color: black;
+  margin: 10px 0;
+}
